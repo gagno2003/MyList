@@ -1,0 +1,7 @@
+C:\Users\gagni_j1hmy01\Desktop\Projects\MyList\MyList\bin\Debug\MyList.exe.config
+C:\Users\gagni_j1hmy01\Desktop\Projects\MyList\MyList\bin\Debug\MyList.exe
+C:\Users\gagni_j1hmy01\Desktop\Projects\MyList\MyList\bin\Debug\MyList.pdb
+C:\Users\gagni_j1hmy01\Desktop\Projects\MyList\MyList\obj\Debug\MyList.csprojAssemblyReference.cache
+C:\Users\gagni_j1hmy01\Desktop\Projects\MyList\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\Desktop\Projects\MyList\MyList\obj\Debug\MyList.exe
+C:\Users\gagni_j1hmy01\Desktop\Projects\MyList\MyList\obj\Debug\MyList.pdb
